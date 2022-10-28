@@ -1,5 +1,9 @@
 # list-of-mac-dev-apps
 
+## Web Debugging
+
+* [Fiddler](https://www.telerik.com/fiddler)
+
 ## API Testing
 
 * Postman
