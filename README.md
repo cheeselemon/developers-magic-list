@@ -1,4 +1,9 @@
-# list-of-mac-dev-apps
+# Development Websites 
+
+* https://jamstack.org/headless-cms/
+
+
+# Mac Dev Apps
 
 ## Web Debugging
 
