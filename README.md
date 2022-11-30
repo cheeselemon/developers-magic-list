@@ -30,3 +30,19 @@
 ## Git
 
 * [Fork](https://git-fork.com/)
+
+--- 
+
+## Headless CMS 
+
+### Node.js
+
+https://strapi.io/ - Top leading open source, very flexible.
+
+https://ghost.org/ - Deeply integrated for professional publishers.
+
+### Python
+
+https://wagtail.org/features/
+
+https://buttercms.com/django-cms/
