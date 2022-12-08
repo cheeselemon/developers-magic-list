@@ -15,6 +15,12 @@
 
 * [Fiddler](https://www.telerik.com/fiddler)
 
+## CI/CD
+
+### Mobile App CI/CD
+
+* [Bitrise](https://www.bitrise.io/)
+
 ## API Testing
 
 * Postman
