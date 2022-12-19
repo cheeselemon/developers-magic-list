@@ -61,3 +61,11 @@ https://ghost.org/ - Deeply integrated for professional publishers.
 https://wagtail.org/features/
 
 https://buttercms.com/django-cms/
+
+
+## Mac Utilities 
+
+### karabiner
+
+* map custom key to change input language (i.e. right CMD key)
+
