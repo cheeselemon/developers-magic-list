@@ -71,3 +71,18 @@ https://buttercms.com/django-cms/
 
 * map custom key to change input language (i.e. right CMD key)
 
+
+---
+
+## VSCode Plugins
+
+* Indent Rainbow 
+
+* Git Graph
+
+* Github Copilot (MUST!)
+
+* Vibrancy Continued 
+
+
+
