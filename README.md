@@ -49,6 +49,7 @@
 ## P2P Video Call Server
 
 * https://github.com/miroslavpejic85/mirotalk
+* 참고: AGPL 3.0 이며, 소스 수정 없이 서비스로 제공만 할 경우 해당 소스코드 공개 의무는 없다. 
 
 --- 
 
