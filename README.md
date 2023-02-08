@@ -57,6 +57,12 @@
 
 * https://github.com/tuhinpal/tplayer.js
 
+## Anti Piracy
+
+Spear 
+
+* https://github.com/ItIsMeCall911/Course-Piracy-Index 
+
 --- 
 
 ## Headless CMS 
