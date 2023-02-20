@@ -18,6 +18,10 @@
 
 * [Fiddler](https://www.telerik.com/fiddler)
 
+* [GreenFlare](https://greenflare.io/) SEO Crawler 
+
+
+
 ## CI/CD
 
 ### Mobile App CI/CD
@@ -87,11 +91,6 @@ https://buttercms.com/django-cms/
 ### karabiner
 
 * map custom key to change input language (i.e. right CMD key)
-
-### SEO Crawler 
-
-* https://greenflare.io/
-
 
 ---
 
