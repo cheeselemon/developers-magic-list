@@ -105,4 +105,10 @@ https://buttercms.com/django-cms/
 * Vibrancy Continued 
 
 
+---
+
+## Visual Resources 
+
+* [lucide icons](https://lucide.dev/icons/)
+
 
